@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Kumpulin</string>
+    <string name="txt_btn_add">Create</string>
+    <string name="txt_btn_person_add">Add</string>
+    <string name="txt_btn_person_send">Send</string>
+    <string name="txt_btn_person_cancel">Cancel</string>
+    <string name="txt_dialog_title_message">Send Message</string>
+    <string name="txt_dialog_title_person">Participant Data</string>
+    <string name="txt_dialog_title_patungan">Activity Data</string>
+    <string name="txt_hint_title">Activity name</string>
+    <string name="txt_hint_price">Cost per person</string>
+    <string name="txt_hint_num">Number of participants</string>
+    <string name="txt_hint_date">Due date</string>
+    <string name="txt_hint_dialog_name">Name</string>
+    <string name="txt_hint_dialog_payment">Amount of payment</string>
+    <string name="txt_hint_dialog_message">Write your message</string>
+    <string name="txt_payment">Payment</string>
+    <string name="txt_participant">Participants</string>
+    <string name="txt_per_person">Cost per person</string>
+    <string name="txt_duedate">Due date</string>
+    <string name="txt_complete">Not complete</string>
+    <string name="txt_no_list_title">No Activity Yet</string>
+    <string name="txt_no_list_desc">Tap button to add new activity.</string>
+    <string name="txt_no_person_title">No Participant Registered</string>
+    <string name="txt_no_person_desc">Tap button to register participant.</string>
+</resources>

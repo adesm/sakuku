@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Kumpulin</string>
+    <string name="txt_btn_add">Buat</string>
+    <string name="txt_btn_person_add">Tambah</string>
+    <string name="txt_btn_person_send">Kirim</string>
+    <string name="txt_btn_person_cancel">Batal</string>
+    <string name="txt_dialog_title_message">Kirim Pesan</string>
+    <string name="txt_dialog_title_person">Data Peserta</string>
+    <string name="txt_dialog_title_patungan">Data Kegiatan</string>
+    <string name="txt_hint_title">Nama kegiatan</string>
+    <string name="txt_hint_price">Biaya per orang</string>
+    <string name="txt_hint_num">Jumlah peserta</string>
+    <string name="txt_hint_date">Jatuh tempo</string>
+    <string name="txt_hint_dialog_name">Masukkan nama</string>
+    <string name="txt_hint_dialog_payment">Jumlah pembayaran</string>
+    <string name="txt_hint_dialog_message">Tulis pesan</string>
+    <string name="txt_payment">Pembayaran</string>
+    <string name="txt_participant">Peserta</string>
+    <string name="txt_per_person">Biaya per orang</string>
+    <string name="txt_duedate">Jatuh tempo</string>
+    <string name="txt_complete">Belum lunas</string>
+    <string name="txt_no_list_title">Daftar Aktivitas Kosong</string>
+    <string name="txt_no_list_desc">Sentuh tombol untuk menambahkan aktivitas baru.</string>
+    <string name="txt_no_person_title">Tidak Ada Peserta</string>
+    <string name="txt_no_person_desc">Sentuh tombol untuk mendaftarkan peserta.</string>
+</resources>
